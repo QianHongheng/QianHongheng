@@ -5,11 +5,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on something **cool!**
-- 🌱 I’m currently learning with help from [Link title](docs.github.com)
+- 🌱 I’m currently learning with help from [docs.github.com](docs.github.com)
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with github
 - 💬 Ask me about github
 - 📫 How to reach me: github
 - 😄 Pronouns: github
 - ⚡ Fun fact: github
-[Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Frandom%2F&psig=AOvVaw0hZhUexygsVpc_Q1DDcuWG&ust=1724824662380000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwin19bbvpSIAxXzl2MGHbfQBhcQjRx6BAgAEBg)
+![Alt text]([./image.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw6r6q3JZx8pkJzqCuooS7UO87jlj4hk23f8yAFxG46iwQvEDQT4BeV7uVwdZ-SLYCLDk&usqp=CAU))
