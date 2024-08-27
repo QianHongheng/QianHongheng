@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: github
 - 😄 Pronouns: github
 - ⚡ Fun fact: github
-![Alt text]([./image.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw6r6q3JZx8pkJzqCuooS7UO87jlj4hk23f8yAFxG46iwQvEDQT4BeV7uVwdZ-SLYCLDk&usqp=CAU))
+![Alt text][./image.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw6r6q3JZx8pkJzqCuooS7UO87jlj4hk23f8yAFxG46iwQvEDQT4BeV7uVwdZ-SLYCLDk&usqp=CAU)
